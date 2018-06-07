@@ -44,20 +44,6 @@ font-family: "Droid Serif", serif;
 line-height: 26px;
 font-size: 18px;
 }
-/*
-	h1{ 
-		font-family: "Monoton";
-		font-size: 60px;
-		text-decoration: overline underline;
-		text-transform: uppercase;
-		text-align: center;
- 
-	}
-
-	P {
-		font-family: "courier New", monospace;
-  */     
-	}
 
 	h2 {
 	font-family: "Raleway", serif;
@@ -66,24 +52,11 @@ font-size: 18px;
 	font-weight: 600;
 	font-size: 20px;
 	}
-	h3 {
-		margin-top: -2px;
-		margin-bottom: -2px;
-	}
-/*
-	.toplinks {
-	/*	color: #F15B31; 
-        font-size: 18px;
-       margin: -10 0 30 0;
-        text-decoration: none;
-        font-family: "Raleway";
-        letter-spacing: 1px;
-        font-weight: 600;
-	}
-	*/
+
 img {
 	margin: 40px 8px 0px 8px;
 }
+
 footer {
 	padding: 0px 20px;
 	background-color: #0D2C40;
@@ -113,21 +86,7 @@ font-size: 0;
 	color: #f15B31;
 	font-weight: 700;
 }
-/*
-	.socialmedia {
-		text-decoration: none;
-        margin: 30 0 0 0;
-	}
-/*
-	#brain {
-		height: 300px;
-		width: 450px;
-		margin: 10px 10px -20px 5px;
-		opacity: .8;
 
-	}	
-*/
-
-
-
-
+.socialmedia {
+	float: center;
+}
